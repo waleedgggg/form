@@ -1,7 +1,5 @@
 #!/usr/bin/env python2
 
-"""This module brute force a form."""
-
 import os
 import time
 import ConfigParser
